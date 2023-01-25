@@ -8,15 +8,15 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="app-store-notifications-v2-validator",
-    version="0.0.4",
+    version="0.0.5",
     author="Rick Wierenga",
     author_email="rick_wierenga@icloud.com",
     description="AppStore notifications v2 Validator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/rickwierenga/app-store-notifications-v2-validator",
+    url="https://github.com/kajensen/app-store-notifications-v2-validator",
     project_urls={
-        "Bug Tracker": "https://github.com/rickwierenga/app-store-notifications-v2-validator/issues",
+        "Bug Tracker": "https://github.com/kajensen/app-store-notifications-v2-validator/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
